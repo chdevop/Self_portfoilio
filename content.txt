@@ -1,0 +1,15 @@
+header 1 console.log("Hello World!") ---main header at the centre of the landing page 
+  
+           ----  ABOUT ME SECTION ---
+
+About me section --- I'm a sophomore in chemical engineering with an unwavering passion for all things chemistry and innovation. Currently pursuing a minor degree in Computer Science Engineering (CSE) to deepen my expertise, I'm on a mission to explore the fascinating world of chemical processes and their real-world applications. Join me as I share my academic journey and discoveries right here on this website.
+
+
+font to be added in the head section of about me link
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+
+css code to do the same  font-family: 'Dancing Script', cursive;
+
+ 
